@@ -215,7 +215,13 @@ git clone https://github.com/YourUsername/Loan-Approval-Analytics.git
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/ANALYST-AHTESHAM">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+    <img src="https://github.com/ANALYST-AHTESHAM/Banking-Loan-Approved-End-to-End-/blob/main/Loan_approved-1.png"/>
+        <img src="https://github.com/ANALYST-AHTESHAM/Banking-Loan-Approved-End-to-End-/blob/main/Loan_approved-2.png"/>
+            <img src="https://github.com/ANALYST-AHTESHAM/Banking-Loan-Approved-End-to-End-/blob/main/Loan_approved-3.png"/>
+                <img src="https://github.com/ANALYST-AHTESHAM/Banking-Loan-Approved-End-to-End-/blob/main/Loan_approved-4.png"/>
+                  <img src="https://github.com/ANALYST-AHTESHAM/Banking-Loan-Approved-End-to-End-/blob/main/Loan_approved-5.png"/>
+                    <img src="https://github.com/ANALYST-AHTESHAM/Banking-Loan-Approved-End-to-End-/blob/main/Loan_approved-6.png"/>
+
   </a>
 </p>
 
